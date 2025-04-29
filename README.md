@@ -16,8 +16,8 @@ Analyze monthly revenue and order volume from the `online_sales` dataset using S
 - Sorted and limited results to identify trends and top-performing months.
 
 ## 📁 Files Included
-- `sales_trend_analysis.sql`: SQL script containing all queries.
-- `results_table.csv`: Output of the analysis (if applicable).
+- `SQL script.sql`: SQL script containing all queries.
+- ``: Output of the analysis (if applicable).
 - Screenshots (if any).
 - This `README.md`.
 ![sales](https://github.com/user-attachments/assets/5267e0d5-b258-4d6e-ae41-a129a5480987)
