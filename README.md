@@ -1,3 +1,4 @@
+<img width="1470" alt="results table" src="https://github.com/user-attachments/assets/47752331-cca2-45f1-b6da-e7b25658d92f" />
 # -TASK-6-Sales-Trend-Analysis-Using-Aggregations-
 # TASK 6: Sales Trend Analysis Using Aggregations
 
